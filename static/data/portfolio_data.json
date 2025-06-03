@@ -1,0 +1,107 @@
+{
+  "personal_info": {
+    "name": "Alex Johnson",
+    "title": "NLP Engineer & Data Scientist",
+    "bio": "Passionate NLP engineer with 5+ years of experience developing cutting-edge language models and applications. Specialized in transformer architectures, sentiment analysis, and conversational AI.",
+    "email": "alex.johnson@example.com",
+    "github": "github.com/alexjohnson-nlp",
+    "linkedin": "linkedin.com/in/alexjohnson-nlp",
+    "profile_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  "skills": [
+    {"name": "Natural Language Processing", "level": 95},
+    {"name": "Machine Learning", "level": 90},
+    {"name": "Python", "level": 95},
+    {"name": "PyTorch", "level": 85},
+    {"name": "TensorFlow", "level": 80},
+    {"name": "Hugging Face Transformers", "level": 90},
+    {"name": "BERT/GPT Models", "level": 85},
+    {"name": "Sentiment Analysis", "level": 90},
+    {"name": "Text Classification", "level": 85},
+    {"name": "Named Entity Recognition", "level": 80},
+    {"name": "Data Visualization", "level": 75},
+    {"name": "SQL", "level": 70}
+  ],
+  "projects": [
+    {
+      "title": "Multilingual Sentiment Analysis Engine",
+      "description": "Developed a state-of-the-art sentiment analysis system supporting 15+ languages using fine-tuned XLM-RoBERTa models. Achieved 92% accuracy across diverse domains including social media, product reviews, and news articles.",
+      "technologies": ["PyTorch", "Transformers", "FastAPI", "Docker"],
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "github_link": "https://github.com/alexjohnson-nlp/multilingual-sentiment"
+    },
+    {
+      "title": "Conversational Customer Support Bot",
+      "description": "Built an end-to-end conversational AI system for a major e-commerce platform that handles 60% of customer inquiries automatically. Implemented context-aware dialogue management and seamless human handoff protocols.",
+      "technologies": ["Rasa", "TensorFlow", "MongoDB", "Kubernetes"],
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "github_link": "https://github.com/alexjohnson-nlp/conv-support-bot"
+    },
+    {
+      "title": "Document Intelligence Platform",
+      "description": "Created an NLP pipeline for extracting structured information from legal and financial documents. The system processes contracts, invoices, and reports with 95% extraction accuracy, saving 1000+ manual processing hours monthly.",
+      "technologies": ["spaCy", "BERT", "Flask", "PostgreSQL"],
+      "image": "https://images.unsplash.com/photo-1568027762272-e4da8b8dde3d?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "github_link": "https://github.com/alexjohnson-nlp/doc-intelligence"
+    },
+    {
+      "title": "Semantic Search Engine",
+      "description": "Developed a semantic search system using dense vector embeddings that improved search relevance by 40% compared to keyword-based approaches. Implemented efficient ANN search with FAISS for sub-second query times over millions of documents.",
+      "technologies": ["Sentence-Transformers", "FAISS", "Elasticsearch", "React"],
+      "image": "https://images.unsplash.com/photo-1555952494-efd681c7e3f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "github_link": "https://github.com/alexjohnson-nlp/semantic-search"
+    }
+  ],
+  "experience": [
+    {
+      "company": "AI Language Labs",
+      "position": "Senior NLP Engineer",
+      "period": "2021 - Present",
+      "description": "Lead development of production NLP systems for Fortune 500 clients. Architect and implement custom language models for domain-specific applications."
+    },
+    {
+      "company": "TechCorp Solutions",
+      "position": "Machine Learning Engineer",
+      "period": "2019 - 2021",
+      "description": "Developed and deployed NLP models for text classification, named entity recognition, and sentiment analysis. Improved model accuracy by 25% through advanced feature engineering."
+    },
+    {
+      "company": "DataScience Innovations",
+      "position": "Data Scientist",
+      "period": "2017 - 2019",
+      "description": "Implemented machine learning solutions for text and time-series data. Created NLP pipelines for processing customer feedback and support tickets."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "degree": "M.S. in Computer Science, NLP Specialization",
+      "period": "2015 - 2017"
+    },
+    {
+      "institution": "University of Washington",
+      "degree": "B.S. in Computer Science and Linguistics",
+      "period": "2011 - 2015"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Improving Cross-lingual Transfer Learning in Transformer Models",
+      "venue": "ACL 2022",
+      "year": 2022,
+      "link": "https://example.com/paper1"
+    },
+    {
+      "title": "Efficient Fine-tuning Strategies for Domain Adaptation in NLP",
+      "venue": "EMNLP 2021",
+      "year": 2021,
+      "link": "https://example.com/paper2"
+    },
+    {
+      "title": "Attention Mechanisms for Low-Resource Language Processing",
+      "venue": "NAACL 2020",
+      "year": 2020,
+      "link": "https://example.com/paper3"
+    }
+  ]
+}
